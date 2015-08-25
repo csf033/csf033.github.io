@@ -11,4 +11,4 @@ icon: glyphicon-heart
 
 
 ####感谢模板作者
-Github[Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)
+[Github](https://github.com/Gaohaoyang/gaohaoyang.github.io)
